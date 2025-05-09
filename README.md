@@ -28,3 +28,11 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 - Which states contributed the most to total sales?
 - How does profit vary across different states?
 - Dashboard Interaction <a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce_Sales%20Dashboard.png">Dashboard<a/>
+
+# Project Process
+- Imported raw ecommerce sales data into Excel
+- Cleaned the data by removing duplicates, fixing data types, and handling missing values
+- Ensured consistency across product categories, regions, and dates
+- Created pivot tables to analyze sales, profit, orders, quantity, and growth metrics
+- Built visualizations for KPIs, category-wise trends, state-wise sales, and YoY growth
+- Compiled everything into a dashboard with slicers and charts for easy analysis
