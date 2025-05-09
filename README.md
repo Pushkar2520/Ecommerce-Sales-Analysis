@@ -5,4 +5,26 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 
 <a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Analysis<a/>
 
+#KPIs
+## Sales & Profit Performance
+- What is the total sales revenue generated?
+- What is the total profit earned?
+- How many total items (quantity) were sold?
+- How many orders were placed?
+- What is the overall profit margin?
+
+# Year-over-Year (YoY) Growth
+- How much has sales revenue grown compared to last year?
+- What is the YoY growth in profit?
+- How has the number of orders changed over the year?
+- Did the profit margin improve or decline year-over-year?
+
+# Category & Product Insights
+- Which product category generated the highest profit?
+- What is the sales share of each category (Technology, Furniture, Office Supplies)?
+- Which are the top 5 sub-categories by sales?
+
 <a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce_Sales%20Dashboard.png">Dashboard<a/>
+# Regional Performance
+- Which states contributed the most to total sales?
+- How does profit vary across different states?
