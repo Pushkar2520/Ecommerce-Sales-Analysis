@@ -5,7 +5,7 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 
 <a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Analysis<a/>
 
-#KPIs
+# KPIs
 ## Sales & Profit Performance
 - What is the total sales revenue generated?
 - What is the total profit earned?
