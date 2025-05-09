@@ -1,2 +1,2 @@
-# Ecommerce-Sales-Analysis
-To analyze ecommerce sales data to uncover trends in product performance, regional sales, and customer segments, enabling data-driven decisions to improve sales strategy, marketing efforts, and inventory management.
+# Ecommerce-Sales-Analysis(Interactive dashborad using MS Excel)
+To analyze ecommerce sales data by tracking key metrics like revenue, profit, and order trends across categories, states, and customer segments, enabling better business planning and performance optimization.
