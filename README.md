@@ -39,3 +39,21 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 ## Dashboard
 ![Ecommerce_Sales Dashboard](https://github.com/user-attachments/assets/7c4ff0d8-f582-45eb-9312-c33c78806698)
 # Project Insights
+## Main KPIs
+- Total Sales – $2,297,200.86
+- Total Profit – $286,397.02
+- Quantity Sold – 37,873 units
+- Number of Orders – 9,994
+- Profit Margin – 12%
+  ## Growth Metrics (YoY Growth)
+- Sales Growth – +20.62%
+- Profit Growth – +14.41%
+- Order Growth – +28.64%
+- Profit Margin Growth – –5.55%
+
+## Other Key Insights
+### Sales and Profit Trend (Monthly)
+- Profit by Category – Technology, Office Supplies, Furniture
+- Sales Share by Category (%) – Technology: 36.4%, Office Supplies: 32.3%, Furniture: 31.3%
+- Sales by State – e.g., highest: $457.66K
+- Top 5 Sub-Categories by Sales – Phones, Chairs, Storage, Tables, Binders
