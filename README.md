@@ -36,3 +36,6 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 - Created pivot tables to analyze sales, profit, orders, quantity, and growth metrics
 - Built visualizations for KPIs, category-wise trends, state-wise sales, and YoY growth
 - Compiled everything into a dashboard with slicers and charts for easy analysis
+## Dashboard
+![Ecommerce_Sales Dashboard](https://github.com/user-attachments/assets/7c4ff0d8-f582-45eb-9312-c33c78806698)
+# Project Insights
