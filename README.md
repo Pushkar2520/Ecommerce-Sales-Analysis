@@ -24,7 +24,7 @@ To analyze ecommerce sales data by tracking key metrics like revenue, profit, an
 - What is the sales share of each category (Technology, Furniture, Office Supplies)?
 - Which are the top 5 sub-categories by sales?
 
-<a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce_Sales%20Dashboard.png">Dashboard<a/>
 # Regional Performance
 - Which states contributed the most to total sales?
 - How does profit vary across different states?
+- Dashboard Interaction <a href="https://github.com/Pushkar2520/Ecommerce-Sales-Analysis/blob/main/Ecommerce_Sales%20Dashboard.png">Dashboard<a/>
